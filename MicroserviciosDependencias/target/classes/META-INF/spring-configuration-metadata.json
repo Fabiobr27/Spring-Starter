@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "saludo.mensaje",
+      "type": "com.example.microServicios.starter.SaludoProperties",
+      "sourceType": "com.example.microServicios.starter.SaludoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "saludo.mensaje.idioma",
+      "type": "java.lang.String",
+      "sourceType": "com.example.microServicios.starter.SaludoProperties"
+    }
+  ],
+  "hints": []
+}
